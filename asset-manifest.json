@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VideoChat/static/css/main.e6c13ad2.css",
+    "main.js": "/VideoChat/static/js/main.ebb5ef20.js",
+    "static/js/787.cae9a83c.chunk.js": "/VideoChat/static/js/787.cae9a83c.chunk.js",
+    "index.html": "/VideoChat/index.html",
+    "main.e6c13ad2.css.map": "/VideoChat/static/css/main.e6c13ad2.css.map",
+    "main.ebb5ef20.js.map": "/VideoChat/static/js/main.ebb5ef20.js.map",
+    "787.cae9a83c.chunk.js.map": "/VideoChat/static/js/787.cae9a83c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ebb5ef20.js"
+  ]
+}
